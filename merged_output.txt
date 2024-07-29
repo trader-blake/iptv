@@ -2955,9 +2955,11 @@ iHOT爱动漫,http://[2409:8087:5e08:24::12]:6610/000000001000/20000000040000000
 翡翠台,http://107.167.12.58:27347/livehttpplay?channel_id=20124
 翡翠台,http://61.238.177.254:30261/stream/channelid/1548166379
 ViuTV, http://113.83.152.56:8182/bynumber/3
-ViuTV, http://113.83.152.56:8182/bynumber/3
+ViuTV, http://php.jdshipin.com:8880/smt.php?id=viu1_twn
+ViuTV, http://zsntlqj.xicp.net:8895/bysid/99.m3u8
 ViuTV6, http://113.83.152.56:8182/bynumber/2
 ViuTV6, http://grandprix2023.asuscomm.com:8889/bysid/96.m3u8
+ViuTV6, http://zsntlqj.xicp.net:8895/bysid/96.m3u8
 TVBS新闻,http://extraott.com:80/live/7921751389/6097373662/5499.m3u8
 TVBS新闻,https://z02.ubtvfans.com/live/rx2/2/04c1c443d4f9f5983c9e9a491ba05f05/index.m3u8
 TVBS新闻,https://live.yzd.jialiangos.com:4443/live/fhw/139
